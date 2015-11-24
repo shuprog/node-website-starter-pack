@@ -13,6 +13,9 @@ Once you have node installed, open a terminal and go into the directory that
 you have cloned this project too. Then run:
 
 ```sh
+# Installs dependencies
+npm install
+# Runs the server
 npm start
 ```
 
