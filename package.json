@@ -1,0 +1,27 @@
+{
+  "name": "node-website-starter-pack",
+  "version": "0.0.1",
+  "description": "A very simple node starter pack.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/shuprog/node-website-starter-pack.git"
+  },
+  "keywords": [
+    "node",
+    "starter",
+    "website"
+  ],
+  "author": "Ben Parnell <benjaminparnell.94@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shuprog/node-website-starter-pack/issues"
+  },
+  "homepage": "https://github.com/shuprog/node-website-starter-pack",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
