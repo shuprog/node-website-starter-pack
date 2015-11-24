@@ -1,6 +1,6 @@
 {
   "name": "node-website-starter-pack",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A very simple node starter pack.",
   "main": "server.js",
   "scripts": {
